@@ -1,0 +1,10 @@
+# Outline {#outline}
+
+Here is an overview of the content and topics covered in this course of study. Complete are your own pace, asynchronously. However, please check the official course outline if you are doing the work for credit to ensure you submit summative work at the appropriate times.
+
+```{r, warning=FALSE, message=FALSE, echo=FALSE}
+library(tidyverse)
+schedule <- read_csv("./schedule.csv")
+knitr::kable(schedule, booktabs = TRUE)
+
+```
