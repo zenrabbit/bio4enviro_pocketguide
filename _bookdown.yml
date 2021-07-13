@@ -1,0 +1,5 @@
+book_filename: "bio4enviro_pocketguide"
+delete_merged_file: true
+language:
+  ui:
+    chapter_name: "Chapter "
