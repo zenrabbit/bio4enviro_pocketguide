@@ -1,2 +1,21 @@
 # Landuse challenges {#landuse}
 
+![](./landuse.png){width=3in}    
+
+#### Learning outcomes {-}  
+1. Be able to describe and differentiate restoration from other challenge & solution categories.
+2. Explore one set of ideas that link land use to people.  
+3. Understand some of the variety of synthesis tools available to contemporary scientists.
+
+#### Context {-}  
+Land is a commodity. We compete with plants and other animals for space. Land literally provides the space for most components of human society through provision of direct and indirect ecosystem services. In the challenge reading, a synthesis of the restoration research for drylands in California was summarized [@RN5980]. The technique or replicable solution used was a formal systematic review, but there are many such synthesis tools [@RN3216]. Synthesis tools provide the big picture to frame questions and evaluate the relevant merit or at least frequency that scientists use one technique versus another.
+
+#### Reflection questions {-}
+1. Is better late than never possible for many other ecosystems in addition to drylands?  
+2. Why was the direct human dimension of restoration in drylands not examined in this case study challenge?  
+3. What synthesis technique described in the solution paper best matched your thinking style?  
+
+#### Formative checklist or steps {-}  
+1. Read the paper.  
+2. Consider the questions provided, to guide your thinking and practice implementing evidence to do magic (i.e. potentially use science to address challenges). These are not graded, and the purpose is to reflect and actively engage with readings.  
+3. Review the slide decks (optional) after you read and consider the two papers to see if similar concepts resonated with you.  
