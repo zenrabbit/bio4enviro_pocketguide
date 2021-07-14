@@ -16,7 +16,11 @@ description: "This a brief overview of how to use biology for inform decision ma
 
 Welcome to biology for environmental management. The goal of this course is to examine global grand challenges that we face through the lens of solutions from science. Science can be magical because it provides us with incredible outcomes in so many domains of the human endeavour. Here, we work to find the magic spells from science for the environment to promote the well-being of people and the planet.   
 
-If you are electing to engage with this learning opportunity formally for BIOL4265 at York University, here is the [official course outline](https://figshare.com/articles/online_resource/BIOL3250-2021_course_outline/14944590). 
+If you are electing to engage with this learning opportunity formally for BIOL4265 at York University, here is the [official course outline](https://figshare.com/articles/online_resource/BIOL3250-2021_course_outline/14944590).  
+
+There is an opportunity for us to mobilize science to do social good. We we can leverage what we know, what we do not know, i.e. uncertainty, and what we need to know, to enable conservation, protection, and better management of the environment. This benefits the environment. It benefits us. Here are the [ten simple rules](https://www.facetsjournal.com/doi/10.1139/facets-2020-0021) the underpin an evidence-informed philosophy for the entire course [@RN6861].  
+
+
 
 ### Learning outcomes {-} 
 1. Critically read environmental science peer-reviewed journal publications.  
