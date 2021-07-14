@@ -1,2 +1,22 @@
 # Invasive species {#invasions}
 
+![](./invasion.png){width=3in}    
+
+#### Learning outcomes {-}  
+1. Be able to define invasive species.
+2. Describe some of the ways that ecologists test invasive species.  
+3. Examine whether a grand challenge needs a small or large (even global) team.
+
+#### Context {-}  
+Invasive species are a global issue. Introduced species that become invasive can dramatically and irrevocably modify ecosystems. The paper provided here is an exceptional example of leveraging fundamental science, i.e. biogeography, with the contemporary study of this issue [@RN5996]. To study a species from one place in another, particularly between continents, teams in science can do the work more efficiently and more effectively. Team science is thus a logical solution to this issue [@RN6000]. As you know from your science work, collaboration is not always easy though particularly when the work is being evaluated - whether in a class for groupwork or by a university of its researchers or by funding agencies in contrasting the merit of a researcher. Working with others to tackle global grand challenges is critical, but we also need to adapt how we value work in teams in science.  
+
+#### Reflection questions {-}  
+1. What is biogeography?  
+2. Are invasive species always 'bad' or problematic?  
+3. How we up-value scientists that are more inclusive and collaborative?  
+
+
+#### Formative checklist or steps {-}  
+1. Read the paper.  
+2. Consider the questions provided, to guide your thinking and practice implementing evidence to do magic (i.e. potentially use science to address challenges). These are not graded, and the purpose is to reflect and actively engage with readings.  
+3. Review the slide decks (optional) after you read and consider the two papers to see if similar concepts resonated with you.  
