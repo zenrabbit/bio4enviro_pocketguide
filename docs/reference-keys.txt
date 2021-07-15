@@ -1,5 +1,4 @@
 introduction
-outline
 climate
 pollinators
 invasions
@@ -8,5 +7,5 @@ testprep
 test
 synthesis
 scicomm
-metas
 papers
+metas
