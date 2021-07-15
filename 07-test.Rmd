@@ -9,29 +9,29 @@
 3. Use **no more than on page per answer** with at least an 11point font, 1inch margins, and single-spacing.  
 
 ### Test questions {-}
-1. Describe the environmental management challenge case associated with this topic and publication.  In the summary, please ensure that you cover the following:  
+**1.** Describe the environmental management challenge case associated with this topic and publication.  In the summary, please ensure that you cover the following:  
 
 (a) link the basic science to the management (i.e. explain what the authors tested & measured and then how this can relate to management),  
 (b) highlight the extent (i.e. explain if it is a global, regional, or local issue and why), and  
 (c) propose the implication of ignoring this issue.  
 
-total = 10 points.
+total = **10** points.
 
-2. Describe why this is not an environmental management challenge – i.e. play the ‘devil’s advocate’ because we know this happens all the time or more fairly every environmental issue is a balance between direct and indirect benefits from a natural system.  Do not use fallacious arguments or *ad hominem* to do this.  Use the following lines of argument:  
+**2.** Describe why this is not an environmental management challenge – i.e. play the ‘devil’s advocate’ because we know this happens all the time or more fairly every environmental issue is a balance between direct and indirect benefits from a natural system.  Do not use fallacious arguments or *ad hominem* to do this.  Use the following lines of argument:  
 
 (a) list 2 critical limitations of the study (or what viable improvements are needed),  
 (b) highlight the direct needs of people for the system/idea/issue and explain,  
 (c) explain a ‘hope for the best’ strategy that maximizes direct benefit to humans and propose an argument for the resilience/recovery/buffering of the system without a big change (i.e. business as usual model).  
 
-total = 10 points.  
+total = **10** points.  
 
-3. Reverse engineer a general, replicable solution to this challenge.  
+**3.** Reverse engineer a general, replicable solution to this challenge.  
 
-(a) list solutions beginning with the most evident in descending relevance order (exactly like you did every practice day),  
-(b) propose and explain the rers that is most relevant based on research,  
-(c) cite the research you did to design your rers by providing the citation to two solution papers and include just a single sentence for each explaining why you selected that paper as evidence.  
+(a) list solutions beginning with the most evident in descending relevance order,  
+(b) propose and explain the replicable solution that is most relevant based on research,  
+(c) cite the research you did to design your replicable solution by providing the citation to two solution papers and include just a single sentence for each explaining why you selected that paper as evidence.  
 
-total = 20 points. 
+total = **20** points. 
 
 ### Format for answers {-}  
 1. Write in full sentences, no more than 1 page per answer.

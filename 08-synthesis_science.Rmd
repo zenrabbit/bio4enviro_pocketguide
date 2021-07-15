@@ -1,2 +1,52 @@
 # Synthesis science {#synthesis}
 
+![](./adventure.png){width=3in}    
+
+#### Learning outcomes {-}  
+1. Develop your capacity to review scientific literature and scope critical ideas.
+2. Turn your passion and interests into formal scientific evidence for social good.    
+3. Synthesize peer-reviewed science papers.
+
+#### Context {-}  
+Time to choose your own adventure. Flex your creativity. Apply your critical thinking skills to an environmental challenge that is important - to **you**! Find your science-to-magic workflow and do a scientific synthesis. The [United Nations Sustainable Development Goals (i.e. SDGs)](https://sdgs.un.org/goals) are a perfect place to begin. There are a total of 17 goals describing 169 targets as of 2021. Virtually every single goal is directly or indirectly tied to the environment. Some, are very direct such as clean water, life on land, life below water, climate action, zero hunger, and poverty. We need natural systems to sustain and support these goals. Natural systems now need us, and now you here, to summarize the scientific evidence for some focused element of a goal. This is a just a suggested focus - any environmental management challenge is fair game for synthesis and certainly will benefit from the process.    
+
+#### Synthesis {-}  
+Scientific synthesis is big picture science that describe a set of studies on a pinpointed topic [@RN3216]. There are at least three simple and direct options that are amenable to a capture of the research associated with the environmental challenge you identified.  
+
+(1) Narrative review as a highlight, short commentary, or new idea paper that is a snapshot of the key findings from a field research summarizing the main discoveries and/or listing the most critical research gaps. Papers like these are often called **Insights**, **Forum**, or **Ignite**.   
+
+(2) Systematic reviews  are similar to narrative reviews, but clear criteria are listed explaining how you selected papers (i.e. these search terms used in the Web of Science, only studies that had these key inclusion attributes, etc.). Systematic are more replicable because others could follow your steps and get the same set of papers and hopefully reach similar conclusions about the corpus of evidence. These reviews also typically provide some simple quantitative data about the set of studies such as number of countries where the research was done, total sample sizes, number of variables examined, or any attributes that describe what the research was for a specific detail. The narrative component is similar to the first option because it can state what we know and what do not but these reviews do so *much* more precisely. Even a few numbers go a long way to convincing people about the extent that we know or have studied a subject in science.  Papers like these are often termed **Short Commentary** or **Mini-Review**.  
+
+(3) Meta-analyses are systematic reviews plus for each primary study you summarize, you capture the relative efficacy of the treatment tested. Papers like this are often termed **Reviews** or **Meta-analyses** but other terms can be used too. Note: in some fields of research the terms 'systematic review' and 'meta-analysis' are used interchangeably, but in most environmental sciences, meta-analyses always have a measure of the strength of evidence from each studied included in the synthesis whilst systematic reviews typically do not.  
+
+So for instance, narrative review might provide insights into vaccine research and reported that we have tested three vaccine types but need to test more alternatives. A systematic review would state this too but mention how they checked the science, i.e. we checked 100 papers using these terms x,y, & z in Web of Science, and it might also state how many people were tested in total in all studies. This is thus a more powerful synthesis. However, the gold standard would be the meta-analysis that can summarize all of the above but also reports how well each vaccine type tested actually works on average across all the studies for each one.    
+
+#### Summary of options {-}  
+
+```{r, warning=FALSE, message=FALSE, echo=FALSE}
+library(tidyverse)
+synthesis <- read_csv("./synthesis.csv")
+knitr::kable(synthesis, booktabs = TRUE)
+
+```
+
+#### Steps {-}  
+1. Review the 17 SDGs.
+2. Familiarize yourself again with the scientific synthesis options that can describe and capture the state-of-the-art research for any environmental challenge.  
+3. Select a topic that you care about.  
+4. Check Google Scholar and/or The Web of Science trying different terms.  
+5. If too many studies still, filter than to most cited or the last three years of research only.  
+6. Get those papers.  
+7. Do a quick read of at least the abstracts.  
+8. Take a break.  
+9. Reflect on the environmental challenge you want to tackle and ensure the terms you used and the papers you have are studying the dimension of the challenge you want to summarize.  
+10. Go for it. Decide if it makes sense to do a short narrative, systematic, or meta.   
+11. Compile whatever evidence you need from the studies to do a,b, or c (ie ideas and concepts, count up factors or replicates, or for a meta, do they all or most report similar data and list a mean and sample size you can use).  
+12. Move onto next step - infographic or comic.  
+
+
+#### Outcomes from this work {-}  
+1. A clear vision of the challenge you want to tackle.  
+2. A set of ideas, papers, and the outcome you ultimately provide.  
+3. The evidence you need to work some magic - ie to draw a comic/infographic and then write a very short paper using one of the three formats (narrative, systematic, or meta).  
+
