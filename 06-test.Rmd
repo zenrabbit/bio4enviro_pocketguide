@@ -37,4 +37,13 @@ total = **20** points.
 1. Write in full sentences, no more than 1 page per answer.
 2. Total of 3 pages :).  
 3. Include your name, surname, and student ID at the top of each page.
-4. Work in your preferred text editor, but you must submit responses as a single file in PDF format only to [turnitin.com](https://www.turnitin.com). Class ID and key provided in the official course outline.    
+4. Work in your preferred text editor, but you must submit responses as a single file in PDF format only to [turnitin.com](https://www.turnitin.com). Class ID and key provided in the official course outline.  
+
+### Rubric {-}  
+
+```{r, warning=FALSE, message=FALSE, echo=FALSE}
+library(tidyverse)
+test <- read_csv("./key_tests.csv")
+knitr::kable(test, booktabs = TRUE)
+
+```
