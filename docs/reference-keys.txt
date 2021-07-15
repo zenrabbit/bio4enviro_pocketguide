@@ -7,5 +7,6 @@ testprep
 test
 synthesis
 scicomm
-papers
 metas
+writing
+paper

@@ -43,7 +43,7 @@ total = **20** points.
 
 ```{r, warning=FALSE, message=FALSE, echo=FALSE}
 library(tidyverse)
-test <- read_csv("./key_tests.csv")
+test <- read_csv("./key_test.csv")
 knitr::kable(test, booktabs = TRUE)
 
 ```

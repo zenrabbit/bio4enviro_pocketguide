@@ -2,22 +2,29 @@
 
 ![](./scicomm.png){width=3in}    
 
-#### Learning outcomes {-}  
+### Learning outcomes {-}  
 1. Practice your communication skills.
 2. Be creative.  
 3. Simplify complex scientific evidence appropriately.
 
-#### Context {-}  
+### Context {-}  
 Scientific communication is now its own field of research and activity. It is critical that biology for environmental management promotes better communication. Without effective delivery of evidence, decisions that need science will struggle. Here, we use ten simple rules for [scientific comics](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005845) [@RN7247] to inform our sharing the scientific synthesis work began in the previous chapter. Simplication of science and aggregation of complex evidence is not a trivial skill. It is a challenge to respectfully communicate science but ensure it is accessible to a wide audience. Comics are perfect. Infographics are also powerful, and they are typically more complex information but compile findings still very visually. A comic tells a story and shares the science whilst infographics are also visual but connect ideas in a mini-poster format to the share evidence. [Here are examples](https://www.nature.com/articles/d41586-017-08542-5) of the very best from the journal Nature. 
 
-#### Instructions {-}  
+### Instructions {-}  
 This is a stepping stone assignment or scaffolding to recognize the work you have already done in preparation for your short synthesis paper. It also provides an opportunity be more visual, tell a story, be funny, or present the key evidence you found in an infographic.
 
 If you elect to do a comic, you can draw by hand then scan it or sketch using a digital tool.   
 If infographic, try using a free online tool, Keynote on a Mac, or Powerpoint to draw a single-slide and put your key evidence there.  
 
-#### Steps {-}  
-1. Use your evidence for your synthesis.  
+### Steps {-}  
+1. Use your evidence from your synthesis.  
 2. Pick a few key points. Tell a story visually.  
 
-#### Rubric {-}
+### Rubric {-}  
+
+```{r, warning=FALSE, message=FALSE, echo=FALSE}
+library(tidyverse)
+comic <- read_csv("./key_comic.csv")
+knitr::kable(comic, booktabs = TRUE)
+
+```
