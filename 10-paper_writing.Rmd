@@ -1,2 +1,23 @@
 # Paper writing {#writing}
 
+![](./paperwriting.png){width=3in}    
+
+#### Learning outcomes {-}  
+1. Critically weigh evidence to decide how to best report it.
+2. Write a short synthesis paper.  
+3. Consolidate and hone your writing to be logical and structured even when short.
+
+#### Context {-}  
+Writing is an art. Telling a story well, even in science, is a fundamental professional life skill. Being brief is a virtue. Integrating evidence into scientific writing without being overwhelming is ideal. Here, you can tackle this by reusing your environmental evidence for the challenge you selected. This is an excellent, brief set of guidelines to consider, in general, to consider for better, more clearly structured writing [@RN7239]. Yes, there is always room for improvement.  
+
+Specific this course, you must choose narrative, systematic, or meta. This might have been decided right-up-front because of the nature of the challenge and the evidence that was reported in the papers you compiled. For instance, there was limited data you could extract from the papers, each paper tackled the same challenge but did so very differently, or it was not tractable to process the evidence more formally either then identifying what we know, do not, or where to go.  
+
+
+
+#### Steps for this component {-} 
+1. Find your style.  
+2. Organize your thoughts.
+3. Decide if you need a single, simple graphic to support your paper.  
+4. Write your draft, rapidly, now. Correct later. Let is sit for while.  Aim for <2500 words.  
+5. See final instructions and rubric in next section.  
+

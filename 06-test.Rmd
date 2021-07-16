@@ -3,7 +3,7 @@
 ![](./test.png){width=3in} 
 
 
-### Instructions {-}  
+### Steps {-}  
 1. Read [this paper](https://cdnsciencepub.com/doi/10.1139/cjfas-2016-0520#.W6Uwoy-ZMWo) [@RN6387].
 2. Answer the following questions. 
 3. Use **no more than on page per answer** with at least an 11point font, 1inch margins, and single-spacing.  
@@ -33,7 +33,7 @@ total = **10** points.
 
 total = **20** points. 
 
-### Format for answers {-}  
+### Instructions {-}  
 1. Write in full sentences, no more than 1 page per answer.
 2. Total of 3 pages :).  
 3. Include your name, surname, and student ID at the top of each page.
