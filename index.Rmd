@@ -47,7 +47,11 @@ The goal is to become more literate environmental citizens and develop, consolid
 
 The first module highlights some of the most pressing challenges and more common replicable tools used by the scientific community. The summative test is provided immediately at the start of course to enable asynchronous work and provide a clear, transparent, and testable outcome for this module.   
 
-The second module provides an opportunity for students in this upper-year offering to do a deep dive into a topic that care about deeply. The dimension of the challenge and the solution they pick is open provided it is well articulated. The graphical assignment is a stepping stone or scaffolding to the final paper. It is also a chance to be as creative as students elect to be with communicating science to the public. The final paper is an Ignite, Forum, or Mini-review format contribution on their topic appropriate for a general science journal. These types of papers are increasingly common and important in science and used extensively for evidence-informed decision making by leaders.    
+The second module provides an opportunity for students in this upper-year offering to do a deep dive into a topic that care about deeply. The dimension of the challenge and the solution they pick is open provided it is well articulated. The graphical assignment is a stepping stone or scaffolding to the final paper. It is also a chance to be as creative as students elect to be with communicating science to the public. The final paper is an Ignite, Forum, or Mini-review format contribution on their topic appropriate for a general science journal. These types of papers are increasingly common and important in science and used extensively for evidence-informed decision making by leaders.  
+
+### Citation {-}  
+Lortie, CJ (2021): Biology for environmental management pocketguide. figshare. Book. https://doi.org/10.6084/m9.figshare.15031752.v2   
+
 
 ### License {-}  
 
