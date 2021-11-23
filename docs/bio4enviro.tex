@@ -4,10 +4,14 @@
 %
 \documentclass[
 ]{book}
+\title{Biology for environmental management pocketguide}
+\author{cjlortie}
+\date{}
+
 \usepackage{amsmath,amssymb}
 \usepackage{lmodern}
-\usepackage{ifxetex,ifluatex}
-\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+\usepackage{iftex}
+\ifPDFTeX
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
   \usepackage{textcomp} % provide euro and other symbols
@@ -69,15 +73,11 @@
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 \setcounter{secnumdepth}{5}
 \usepackage{booktabs}
-\ifluatex
+\ifLuaTeX
   \usepackage{selnolig}  % disable illegal ligatures
 \fi
 \usepackage[]{natbib}
 \bibliographystyle{apalike}
-
-\title{Biology for environmental management pocketguide}
-\author{cjlortie}
-\date{}
 
 \begin{document}
 \maketitle
@@ -198,7 +198,7 @@ week & grand challenges & solutions\\
 10 & choose your own adventure: write paper (review, systematic review, or meta) & {}[meta-analysis](https://onlinelibrary.wiley.com/doi/abs/10.1002/jrsm.1109)\\
 \addlinespace
 11 & choose your own adventure: write paper & {}[useful rules for science papers](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619)\\
-12 & choose your own adventure: submit final synthesis paper & {}[Guidelines for authors in a leading journal in short-format papers](https://www.oikosjournal.org/authors/author-guidelines)\\
+12 & choose your own adventure: submit final synthesis paper & {}[Guidelines for authors in a leading journal in short-format papers](https://www.oikosjournal.org/authors/author-guidelines) \& [deck](https://figshare.com/articles/presentation/A\_summary\_of\_short\_scientific\_synthesis\_contributions/17069735)\\
 \bottomrule
 \end{tabular}
 
