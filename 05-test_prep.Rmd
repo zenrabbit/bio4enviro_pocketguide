@@ -8,13 +8,11 @@
 3. Write a clear, short description linking a replicable tool to a challenge studied in the scientific literature.
 
 #### Context {-}  
-Lakes and other bodies of water are our natural canary-in-the-coalmine tools to examine many components of global change. Here, the test paper is provided in advance [@RN6387]. 
-
-Use the 'ten simple rules to facilitate evidence implementation...' [@RN6861] and 'ten simple rules for more objective decision-making' [@RN7223] to structure notes and test prep.
+Use the 'ten simple rules to facilitate evidence implementation' [@RN6861] and 'ten simple rules for more objective decision-making' [@RN7223] to structure notes and test prep.
 
 #### Steps for test prep {-}  
-1. Read the challenge paper.  
-2. Make a list of all the solutions that they used.
-3. Select one solution, find a paper about that solution, see test question.  
+1. Read the challenge paper provided in the test chapter herein.  
+2. Make a list of all the solutions that they used or could have considered.
+3. Select one solution (a novel one not discussed yet), find 1-2 papers about that solution and 1-2 similar papers to the challenge, see test questions.  
 4. Re-read the [ten simple rules](https://www.facetsjournal.com/doi/10.1139/facets-2020-0021) that underpins this course and read the [ten simple rules for making better decisions](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007706) too. 
 5. Go to next chapter in this resource for the test.  
