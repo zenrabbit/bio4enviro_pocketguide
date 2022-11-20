@@ -2,12 +2,12 @@
 
 ![](./paper.png){width=3in}    
 
-### Learning outcomes {-}  
+#### Learning outcomes {-}  
 1. Produce a clear, succinct summary of research.  
 2. Demonstrate mastery of evidence implementation for the environmental sciences.  
 3. Appreciate the challenge of effective simplification in the sciences.  
 
-### Choices redux {-}  
+#### Choices redux {-}  
 (1) Narrative review as a highlight, short commentary, or new idea paper that is a snapshot of the key findings from a field research summarizing the main discoveries and/or listing the most critical research gaps. Papers like these are often called **Insights**, **Forum**, or **Ignite**.   
 
 (2) Systematic reviews  are similar to narrative reviews, but clear criteria are listed explaining how you selected papers (i.e. these search terms used in the Web of Science, only studies that had these key inclusion attributes, etc.). Systematic are more replicable because others could follow your steps and get the same set of papers and hopefully reach similar conclusions about the corpus of evidence. These reviews also typically provide some simple quantitative data about the set of studies such as number of countries where the research was done, total sample sizes, number of variables examined, or any attributes that describe what the research was for a specific detail. The narrative component is similar to the first option because it can state what we know and what do not but these reviews do so *much* more precisely. Even a few numbers go a long way to convincing people about the extent that we know or have studied a subject in science.  Papers like these are often termed **Short Commentary** or **Mini-Review**.  

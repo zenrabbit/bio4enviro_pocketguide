@@ -13,11 +13,25 @@ Writing is an art. Telling a story well, even in science, is a fundamental profe
 Specific this course, you must choose narrative, systematic, or meta. This might have been decided right-up-front because of the nature of the challenge and the evidence that was reported in the papers you compiled. For instance, there was limited data you could extract from the papers, each paper tackled the same challenge but did so very differently, or it was not tractable to process the evidence more formally either then identifying what we know, do not, or where to go.  
 
 
-
-#### Steps for this component {-} 
+#### Steps for writing {-} 
 1. Find your style.  
 2. Organize your thoughts.
 3. Decide if you need a single, simple graphic to support your paper.  
 4. Write your draft, rapidly, now. Correct later. Let is sit for while.  Aim for <2500 words.  
-5. See final instructions and rubric in next section.  
+5. See final instructions and rubric in next section.    
+
+### Tips & tricks for synthesis papers {-}  
+1. Scope terms and ideas using Google Scholar.    
+2. Search The Web of Science with those key terms.  
+3. Consider putting the main concept as first term, and refine to 'title' only search to limit returns and provide a very focused set of papers.  
+4. Check for meta-analyses, reviews, and systematic reviews on your topic to get up to speed rapidly and ensure your work is novel and/or advancing knowledge.  You can do this using the 'refine' function following your search in The Web of Science or you can add meta-analy* etc as a separate row directly in the first step of searching this resource.    
+5. Knowledge advances can be made through what we know and what do not know. Summary of breadth and depth including gaps is a critical synthesis outcome.  
+6. State the science, but focus on synthesis science for this short paper. Synthesis science is putting together sets of studies to take the big picture view of knowledge. It is not single-point thinking but distributional. See sample sentences.  
+7. Primary studies and science will typically state 'we found that...', 'this study showed that...', 'there is an effect of x on y in this system...' etc. Point thinking is powerful, but if there are more than a few related studies, we can move to much broader (although perhaps less specific) conclusions and dramatically extend the scope of inference.  
+8. Synthesis science papers will be more likely to include statements like the following: 'these studies found that..', 'often, many (or even state x how many) studies found...', 'the most frequently used method to test for effects on x on y were...', 'in this field of study, it was uncommon to... (state gap)', or 'there is an opportunity in this field to...'. Basically, use language that conveys the perspective you took across a set of studies, i.e the distribution and breadth of knowledge for a set of related concepts in science.  
+9. Consider using a simple table to track and summarize what each study tested, why, how, and what they reported. Using a table to organize a set of papers for any review facilitates cross-study contrasts.  
+10. State your purpose for the synthesis and revisit over and over again as you read primary studies. The purpose can also be framed as a single question in the domain of 'what do we know about...', or 'how do we study...', 'why do why study...', or in this specific course offering, 'how extensively is the environmental challenge studied', or 'what are most common solutions reported in the scientific literature to address a specific challenge'. A crystal clear goal for your synthesis will ensure you do not get lost in the details of the science.    
+
+
+
 
